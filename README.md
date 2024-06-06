@@ -1,2 +1,2 @@
 # minimo-full-project
-project 02 full
+https://shamimosman12.github.io/minimo-full-project/
